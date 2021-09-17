@@ -116,9 +116,10 @@ def addTwoNumbers(x, y):
 addTwoNumbers(10,59)
 
 #define function
-def madLib(a,b,c,d,e,f,g,h,i,j):
+def madLib(a,b,c,d,e,f,g,h,i,j,k):
 
     #output
-    print("Star Wars is a" + a + b + "of" +c + "versus evil in a" + d + "far far away." + "There are" + e + "battles between" + f + g + "in" + h + "space and" + h + "duels with" + i + "called" + j + "sabers.")
+    print("Star Wars is a" + a + b + "of" +c + "versus evil in a" + d + "far far away." + "There are" + e + "battles between" + f + g + "in" + h + "space and" + i + "duels with" + j + "called" + k + "sabers.")
 
-madLib("fluffy","cat","short","school","colorful","cold","cars","big","pretty","dogs","ugly")
+madLib(" fluffy "," cat "," short "," school "," colorful "," cold "," cars "," big "," pretty "," dogs "," ugly ")
+
